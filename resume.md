@@ -5,7 +5,7 @@ _Houston, TX 77018_
 [_markgreenburg.com_](_markgreenburg.com_) |  [_GitHub_](github.com/markgreenburg)  
 _602-741-3706_
   
-> I am a software engineer who's analytical, detail-oriented, and appreciates clean, readable code. I enjoy developing with back-end technologies such as `Python` / `Flask`, `Node.JS` / `Express`, and `MySQL` / `PostgreSQL`; and front-end technologies such as `React`, and `Redux`. I have extensive experience in Operations, both as a Team Lead, and earlier, as an individual contributor overseeing business strategy at `Google`.
+> I am a software engineer who's analytical, detail-oriented, and appreciates clean, readable code. I enjoy developing with back-end technologies such as `Python`/`Flask`, `Node.JS`/`Express`, and `MySQL`/`PostgreSQL`; as well as front-end technologies such as `React` and `Redux`. I have extensive experience in Operations, both as a Team Lead, and earlier, as an individual contributor overseeing business strategy at `Google`.
 
 ## SELECT PROJECTS ##  
 ### HappyFinder ###
