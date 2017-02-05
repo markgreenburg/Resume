@@ -1,6 +1,5 @@
 # MARK GREENBURG #
-_1614 Viking Drive_  
-_Houston, TX 77018_  
+_Houston, TX_
 [_mark@markgreenburg.com_](mailto:mark@markgreenburg.com)  
 [_markgreenburg.com_](_markgreenburg.com_) |  [_GitHub_](github.com/markgreenburg)  
 _602-741-3706_
