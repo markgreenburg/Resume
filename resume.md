@@ -1,4 +1,4 @@
-# MARK GREENBURG #  
+# MARK GREENBURG #
 _1614 Viking Drive_  
 _Houston, TX 77018_  
 [_mark@markgreenburg.com_](mailto:mark@markgreenburg.com)  
@@ -7,7 +7,7 @@ _602-741-3706_
   
 > I am a software engineer who's analytical, detail-oriented, and appreciates clean, readable code. I enjoy developing with back-end technologies such as **`Python`**/**`Flask`**, **`Node.JS`**/**`Express`**, and **`MySQL`**/**`PostgreSQL`**; as well as front-end technologies such as **`React`** and **`Redux`**. I have extensive experience in Operations, both as a Team Lead, and earlier, as an individual contributor overseeing business strategy at **`Google`**.
 
-## SELECT PROJECTS ##  
+## SELECT PROJECTS ##
 ### HappyFinder ###
 #### Lead Developer ####
 [Website](www.markgreenburg.com/HappyFinder) | [GitHub](github.com/markgreenburg/happyproject)  
@@ -15,7 +15,7 @@ A project built from scratch in one week with one other developer, using `Postgr
 HappyFinder is a way to easily find happy hours by time-of-day and day-of-week. The project heavily utilizes data scraping / parsing along with the Google Places / Maps, and FourSquare `APIs`.
 
 ## EXPERIENCE ##
-### Tresona Music (Aug. 2015 - Present) ###  
+### Tresona Music (Aug. 2015 - Present) ###
 #### Head of Operations ####
 Tresona is a remote music licensing company that automates the licensing and royalty distribution process for music publishers through its web app.
 * Managed 5-person core operations team that handled $xxxK of monthly payments across thousands of publishers.
