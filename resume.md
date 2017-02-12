@@ -1,6 +1,6 @@
 # MARK GREENBURG #
 _Houston, TX_  
-[_marek@gmail.com_](mailto:mark@markgreenburg.com)  
+[_marek.greenburg@gmail.com_](mailto:marek.greenburg@gmail.com)  
 [_GitHub_](github.com/markgreenburg)  
 [_(602) 741-3706_](tel:602-741-3706)
   
