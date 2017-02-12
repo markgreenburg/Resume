@@ -9,7 +9,7 @@ _Houston, TX_
 ## SELECT PROJECTS ##
 ### HappyFinder ###
 #### Lead Developer ####
-[Website](https://codybtaylor.com/HappyFinder) | [GitHub](github.com/ctaylor4874/happyproject)  
+[Website](https://codybtaylor.com/HappyFinder) | [GitHub](https://github.com/ctaylor4874/happyproject)  
 A project built from scratch in one week with one other developer, using `PostgreSQL`, `Python`, `Flask`, `Jinja`, and `Bootstrap`. Deployed on `AWS` with `SSL`.  
 HappyFinder is a way to easily find happy hours by time-of-day and day-of-week. The project heavily utilizes data scraping / parsing along with the Google Places / Maps, and FourSquare `APIs`.
 
