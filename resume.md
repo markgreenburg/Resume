@@ -7,9 +7,18 @@ _Houston, TX_
 > I am a software engineer who's analytical, detail-oriented, and appreciates clean, readable code. I enjoy developing with back-end technologies such as **`Python`**/**`Flask`**, **`Node.JS`**/**`Express`**, and **`MySQL`**/**`PostgreSQL`**; as well as front-end technologies such as **`React`** and **`Redux`**. I have extensive experience in Operations, both as a Team Lead, and earlier, as an individual contributor overseeing business strategy at **`Google`**.
 
 ## SELECT PROJECTS ##
+### markWith ###
+#### Lead Developer ####
+[Website](https://markwith.herokuapp.com) | [GitHub](https://github.com/markgreenburg/markwith)  
+A project built from scratch in one week with two other teammates, using `MongoDB`, `Node JS`, `Express`, `socket.io`,
+`Handlebars`, `JQuery`, and `Bootstrap`. Deployed on `Heroku`.  
+markWith is a collaborative Markdown editor that allows multiple users to work on the same Markdown file together in 
+real time, and renders the resulting Markdown formatting as changes are made to the document. The service is backed by a 
+RESTful API that respects three separate document-level permissions: 'logged in user', 'collaborator', and 'owner.' 
+
 ### HappyFinder ###
 #### Lead Developer ####
-[Website](https://codybtaylor.com/HappyFinder) | [GitHub](https://github.com/ctaylor4874/happyproject)  
+[Website](https://markgreenburg.com/happyhour) | [GitHub](https://github.com/markgreenburg/happyproject)  
 A project built from scratch in one week with one other developer, using `PostgreSQL`, `Python`, `Flask`, `Jinja`, and `Bootstrap`. Deployed on `AWS` with `SSL`.  
 HappyFinder is a way to easily find happy hours by time-of-day and day-of-week. The project heavily utilizes data scraping / parsing along with the Google Places / Maps, and FourSquare `APIs`.
 
