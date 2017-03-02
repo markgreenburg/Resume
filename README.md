@@ -1,7 +1,7 @@
 # MARK GREENBURG #
 _Houston, TX_  
 [_marek.greenburg@gmail.com_](mailto:marek.greenburg@gmail.com)  
-[_GitHub_](github.com/markgreenburg)  
+[_GitHub_](https://github.com/markgreenburg)  
 [_(602) 741-3706_](tel:602-741-3706)
   
 > I am a software engineer who's analytical, detail-oriented, and appreciates clean, readable code. I enjoy developing with  back-end technologies such as **`Python`**/**`Flask`**, **`Node.JS`**/**`Express`**, **`MySQL`**/**`PostgreSQL`**, and 
