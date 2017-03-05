@@ -6,7 +6,7 @@ _Houston, TX_
   
 > I am a software engineer who's analytical, detail-oriented, and appreciates clean, readable code. I enjoy developing with  back-end technologies such as **`Python`**/**`Flask`**, **`Node.JS`**/**`Express`**, **`MySQL`**/**`PostgreSQL`**, and 
 **`Mongo`** / **`Mongoose`**; as well as front-end technologies such as **`React`** and **`Redux`**. I have extensive 
-experience in Operations, both as a Team Lead, and earlier, as an individual contributor overseeing business strategy at **`Google`**.
+experience in Operations, both as a Team Lead, and as an individual contributor overseeing business strategy at **`Google`**.
 
 ## SELECT PROJECTS ##
 ### markWith ###
