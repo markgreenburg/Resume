@@ -54,7 +54,7 @@ Tresona is a remote music licensing company that automates the licensing and roy
 
 
 ### EDUCATION ###
-#### DigitalCrafts Fullstack Academy (11/2016 - 4/2017) ####
+##### DigitalCrafts Fullstack Academy (11/2016 - 4/2017) #####
 Attended immersive development bootcamp with 700 class hours. Curriculum included full stack `Python` and `Javascript` development.
 
 ##### Rails Framework - Lynda.com (2016) #####
