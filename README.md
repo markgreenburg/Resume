@@ -33,7 +33,7 @@ A project built from scratch in one week with one other developer, using `Postgr
 HappyFinder is a way to easily find happy hours by time-of-day and day-of-week. The project heavily utilizes data scraping / parsing along with the Google Places / Maps, and FourSquare `APIs`.
 
 ## EXPERIENCE ##
-### Tresona Music (Aug. 2015 - Present) ###
+### Tresona Music (Aug. 2015 - Dec. 2016) ###
 #### Head of Operations ####
 Tresona is a remote music licensing company that automates the licensing and royalty distribution process for music publishers through its web app.
 * Managed 5-person core operations team that handled $xxxK of monthly payments across thousands of publishers.
@@ -74,6 +74,6 @@ Research published in peer-reviewed journal, Psychonomic Bulletin & Review (180 
 
 
 ### Interests ###
-Analytics, Data, & Process Automation  
-Certifications: Google AdWords and Analytics Certified Professional  
+Things that Fly! Process automation & security.
+Certifications: Google AdWords and Analytics Certified Professional
 Languages: Czech (native), English (native)
