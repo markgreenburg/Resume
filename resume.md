@@ -2,35 +2,26 @@
 _Houston, TX_  
 [_www.markgreenburg.com_](https://www.markgreenburg.com)  
 [_mark@markgreenburg.com_](mailto:mark@markgreenburg.com)  
-[_GitHub_](https://github.com/markgreenburg) | [_LinkedIn_](https://www.linkedin.com/in/markgreenburgjr/)
+[_GitHub_](https://github.com/markgreenburg) | [_LinkedIn_](https://www.linkedin.com/in/markgreenburgjr/)  
 [_(602) 741-3706_](tel:602-741-3706)
   
 > I am a software engineer who's analytical, detail-oriented, and appreciates clean, readable code. I enjoy developing with  back-end technologies such as **`Python`**/**`Flask`**, **`Node.JS`**/**`Express`**, **`MySQL`**/**`PostgreSQL`**, and **`Mongo`** / **`Mongoose`**; as well as front-end technologies such as **`React`**, **`Javascript`**, and **`JQuery`**. I have extensive experience in Operations, both as a Team Lead, and as an individual contributor overseeing business strategy at **`Google`**.
 
 ## SELECT PROJECTS ##
-### markWith ###
-#### Lead Developer ####
-[Website](https://markwith.herokuapp.com) | [GitHub](https://github.com/markgreenburg/markwith)  
-A project built from scratch in one week with two other teammates, using `MongoDB`, `Node JS`, `Express`, `socket.io`,
-`Handlebars`, `JQuery`, and `Bootstrap`. Deployed on `Heroku`.  
-markWith is a collaborative Markdown editor that allows multiple users to work on the same Markdown file together in 
-real time, and renders the resulting Markdown formatting as changes are made to the document. The service is backed by a 
-RESTful API that respects three separate document-level permissions: 'logged in user', 'collaborator', and 'owner.' 
-
-### SkillTreat API ###
+### SkillTreats API ###
 #### Solo Project ####
-[Website](https://markwith.herokuapp.com) | [GitHub](https://github.com/markgreenburg/markwith)  
-A project built from scratch in one week with two other teammates, using `MongoDB`, `Node JS`, `Express`, `socket.io`,
-`Handlebars`, `JQuery`, and `Bootstrap`. Deployed on `Heroku`.  
-markWith is a collaborative Markdown editor that allows multiple users to work on the same Markdown file together in 
-real time, and renders the resulting Markdown formatting as changes are made to the document. The service is backed by a 
-RESTful API that respects three separate document-level permissions: 'logged in user', 'collaborator', and 'owner.' 
+[GitHub](https://github.com/markgreenburg/skilltreatapi)  
+A full-featured eCommerce API utilizing stateless authentication with JWT and a user registration email verification flow. Built in one week with `PostgreSQL`, `Sequelize ORM`, `Express`, and `Node.js`. Email is sent through `Amazon SES`, and the API is deployed on an `AWS` instance running `Apache` with `SSL Encryption` through _Let's Encrypt_. Payment processing is handled in a PCI-compliant manner using the `Stripe API`.
+
+### SkillTreats Native ###
+#### Solo Project ####
+[GitHub](https://github.com/markgreenburg/skilltreatnative)  
+An Android & iOS fully native app made with the `React Native` framework in one week. This app serves as the main client for the SkillTreats API. The client allows a user to perform the full range of end-user API functions - from registering an account, to charging a card using the built-in `Stripe API` integration, to managing a user's orders. 
 
 ### markWith ###
 #### Lead Developer ####
 [Website](https://markwith.herokuapp.com) | [GitHub](https://github.com/markgreenburg/markwith)  
-A project built from scratch in one week with two other teammates, using `MongoDB`, `Node JS`, `Express`, `socket.io`,
-`Handlebars`, `JQuery`, and `Bootstrap`. Deployed on `Heroku`.  
+A project built from scratch in one week with two other teammates, using `MongoDB`, `Node JS`, `Express`, `socket.io`, `Handlebars`, `JQuery`, and `Bootstrap`. Deployed on `Heroku`.  
 markWith is a collaborative Markdown editor that allows multiple users to work on the same Markdown file together in 
 real time, and renders the resulting Markdown formatting as changes are made to the document. The service is backed by a 
 RESTful API that respects three separate document-level permissions: 'logged in user', 'collaborator', and 'owner.' 
